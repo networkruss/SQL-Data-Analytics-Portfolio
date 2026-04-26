@@ -28,4 +28,4 @@ I implemented advanced SQL techniques to ensure data accuracy:
 ---
 *Developed by Neil Russel D. Soliven | [cite_start]Junior Data Analyst & Web Developer*
 
-![Developer Workload Dashboard](dashboard.png
+![Developer Workload Dashboard](dashboard.png)
